@@ -28,8 +28,5 @@
 ### Status:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewwerson&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ewwerson&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-#
-![followers](https://img.shields.io/github/followers/ewwerson.svg?style=social&label=Follow&maxAge=2592000)
-
----
+***
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
