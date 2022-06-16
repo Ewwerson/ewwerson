@@ -1,4 +1,4 @@
-# Apresentação
+# Apresentação 🚀
 ## Olá, me chamo Ewwerson, tenho 16 anos, tenho estudado e me virado para aprender programação 'by myself' pelos últimos 8 meses.
    
 ### Redes sociais:
