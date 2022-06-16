@@ -32,4 +32,3 @@
 
 ---
 ![Made with](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![Made with](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
