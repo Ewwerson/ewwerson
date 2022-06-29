@@ -1,5 +1,5 @@
 # Apresentação 🚀
-## Olá, me chamo Ewwerson, tenho 16 anos, tenho estudado e me virado para aprender programação 'by myself' pelos últimos 8 meses.
+## Olá, me chamo Ewwerson, tenho 16 anos, sou bem recente nessa ára e tenho estudado e me virado para aprender programação 'by myself'.
    
 ### Redes sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewwerson-gomes-5a3847239/)
